@@ -1,0 +1,32 @@
+{
+  "pulled": "2026-10-04",
+  "revisions": {
+    "1062932765": "2021-12-31",
+    "1192312891": "2023-12-28",
+    "1378068558": "2026-10-02"
+  },
+  "api": "action=parse&oldid=<rev>&prop=text; Wikidata wbgetentities P571",
+  "rows": {
+    "listed": 1898,
+    "former": 594,
+    "linked_titles_now": 374
+  },
+  "files": {
+    "rev_1062932765.json": {
+      "bytes": 1926060,
+      "sha256": "fea9858eefdf60da83b5bd23795118d6f863ed2af0b679185d351beabd083e01"
+    },
+    "rev_1192312891.json": {
+      "bytes": 1437928,
+      "sha256": "a04e1fe4c23afa98bb9699bf9edf37fd7863b7bbbd4c3de8d51497ea3c2814a1"
+    },
+    "rev_1378068558.json": {
+      "bytes": 2001801,
+      "sha256": "da2f74985e256eab9bb4ab4e8475dee50285fc9ffc5d0c80c10eee33b64513de"
+    },
+    "wikidata_raw.json": {
+      "bytes": 55847,
+      "sha256": "856df32739c98e12fcce4bfb1a6150f25600e54d8b4de5f4da6a28fd1713d7f6"
+    }
+  }
+}
