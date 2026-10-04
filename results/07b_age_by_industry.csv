@@ -1,0 +1,14 @@
+industry_group,n_with_age,median_age,youngest,oldest
+Artificial intelligence,19,5.0,0,13
+"Hardware, energy & telecom",16,6.5,3,13
+Crypto & blockchain,14,7.0,1,12
+E-commerce & retail,19,8.0,4,19
+Fintech & finance,43,8.0,2,18
+Health & biotech,11,8.0,1,13
+Security & identity,11,8.0,4,15
+Education & work,8,8.5,5,16
+"Media, games & social",14,8.5,1,14
+"Food, travel & hospitality",8,9.0,5,19
+Other / unspecified,10,9.0,6,27
+Transport & logistics,13,9.0,1,15
+"Software, cloud & data",53,10.0,3,23

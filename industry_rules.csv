@@ -1,0 +1,15 @@
+priority,industry_group,pattern
+1,Artificial intelligence,\bai\b|artificial intelligence|superintelligence|frontier intelligences|\bgpt\b|machine learning
+2,Crypto & blockchain,crypto|blockchain|\bnft\b|web3
+3,Security & identity,cyber|security|password|identity|\bvpn\b|fraud|trust & safety
+4,Fintech & finance,financ|fintech|insurance|venture capital|accounting|payment|\btax\b|banking|lending
+5,"Food, travel & hospitality",food|restaurant|meal|kitchen|coffee|travel|hospitality|vacation|agricult|aquaculture|hotel|beverage
+6,E-commerce & retail,commerce|marketplace|retail|fashion|cosmetic|furniture|jewel|sportswear|consumer packaged|personal care|cigarette|apparel
+7,Health & biotech,health|biotech|pharma|medical|drug|nanopore|genom|clinic|neuro|fitness
+8,Transport & logistics,logistic|transport|trucking|car sharing|courier|supply chain|self-driving|electric vehicle|automotive|delivery
+9,"Education & work",educat|edtech|workforce|human resource|\bhr\b|employee|recruit
+10,Real estate & construction,real estate|property technology|proptech|construction|architecture|interior design|home improvement|building
+11,"Software, cloud & data",process automation
+12,"Hardware, energy & telecom",semiconductor|robot|batter|energy|3d printing|nano|quantum|aerospace|space|orbital|electronic|wearable|fusion|defen[cs]e|flexible|augmented|mobile devices|telecom|waste
+13,"Software, cloud & data",software|saas|cloud|\bdata\b|database|analytics|\bcrm\b|customer relationship|developer|devops|webops|web development|content management|collaborat|productivity|information technology|graphic design|storage|marketing|advertising|business intelligence|legal technology|product management|asset performance|^sales$|network operating system
+14,"Media, games & social",game|gaming|music|social|messaging|media|internet|entertainment|video|fantasy sports|virtual event|digital|publishing|content

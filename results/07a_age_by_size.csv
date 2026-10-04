@@ -1,0 +1,5 @@
+bracket,n,n_with_age,coverage_pct,median_age,pct_5_or_younger,pct_10_or_older
+0: all,632,250,39.6,8.0,24.0,36.0
+1: 1 to under 2 bn,330,97,29.4,8.0,19.6,39.2
+2: 2 to under 5 bn,163,71,43.6,8.0,25.4,33.8
+3: 5 bn and over,139,82,59.0,8.0,28.0,34.1

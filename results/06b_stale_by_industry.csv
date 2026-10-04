@@ -1,0 +1,16 @@
+industry_group,n,n_stale,stale_pct,stale_value_pct,median_months
+Crypto & blockchain,25,25,100.0,100.0,62.0
+Real estate & construction,13,13,100.0,100.0,65.0
+Not stated,49,48,98.0,75.5,100.0
+E-commerce & retail,56,54,96.4,93.4,62.0
+Transport & logistics,27,26,96.3,92.2,65.0
+"Software, cloud & data",114,105,92.1,52.7,63.0
+Security & identity,36,33,91.7,85.9,61.0
+"Media, games & social",26,23,88.5,11.8,66.5
+Other / unspecified,25,22,88.0,64.9,66.0
+Fintech & finance,103,90,87.4,40.2,61.0
+Education & work,21,18,85.7,74.7,62.0
+"Food, travel & hospitality",18,15,83.3,90.2,62.5
+Health & biotech,36,29,80.6,69.0,62.5
+"Hardware, energy & telecom",30,16,53.3,16.9,47.5
+Artificial intelligence,53,16,30.2,1.6,12.0

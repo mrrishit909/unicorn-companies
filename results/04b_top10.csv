@@ -1,0 +1,11 @@
+rk,company,valuation_bn,share_pct,cumulative_pct,industry_group,country,val_year
+1,Anthropic,965.0,17.9,17.9,Artificial intelligence,United States,2026
+2,OpenAI,852.0,15.8,33.8,Artificial intelligence,United States,2026
+3,ByteDance,600.0,11.1,44.9,"Media, games & social",China,2026
+4,Databricks,190.0,3.5,48.4,"Software, cloud & data",United States,2026
+5,Stripe,159.0,3.0,51.4,Fintech & finance,United States,2026
+6,Binance,80.0,1.5,52.9,Crypto & blockchain,Canada,2021
+7,Revolut,75.0,1.4,54.3,Fintech & finance,United Kingdom,2025
+8,Anduril Industries,61.0,1.1,55.4,"Hardware, energy & telecom",United States,2026
+9,Cognition AI,48.0,0.9,56.3,Artificial intelligence,United States,2026
+10,Canva,42.0,0.8,57.1,"Software, cloud & data",Australia,2024

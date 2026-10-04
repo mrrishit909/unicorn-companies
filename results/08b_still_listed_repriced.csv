@@ -1,0 +1,6 @@
+outcome,n,share_pct,median_ratio_now_to_then,value_then_bn,value_now_bn
+1: Same valuation date (not re-priced),401,89.1,1.0,1097.4,1103.5
+2: Re-priced higher,32,7.1,2.25,447.8,1372.4
+3: Re-priced lower,5,1.1,0.7,76.7,54.3
+"4: Re-priced, same value",1,0.2,1.0,3.7,3.7
+"5: Re-priced, but a floor (""N+"") is involved",11,2.4,2.5,29.0,29.3

@@ -1,0 +1,21 @@
+k,what,n
+1,rows in the current list (2026-10-02),632
+2,rows in the current former-unicorns table,209
+3,current rows with an exact valuation,468
+4,"current rows with only a floor (""N+"") or a range",164
+5,"current rows whose floor is exactly ""1+""",152
+6,current rows without any valuation number,0
+7,current rows with a blank industry,49
+8,current rows with a blank country,1
+9,"current rows with several countries (/, comma, ""and"")",51
+10,current rows whose valuation date is a year only,9
+11,current rows with no link to a Wikipedia article,258
+12,distinct industry labels in the current list,179
+13,current rows with a usable founding year,250
+14,founding years rejected (age outside 0-30: wrong article),3
+15,rows repaired by hand across the three snapshots (fix column),4
+16,company names that appear twice in the current list,1
+17,companies in both current tables (listed and former),0
+18,former rows whose last valuation is dated after the exit,10
+19,former rows without an exit valuation,21
+20,former rows without a recorded exit reason,1
